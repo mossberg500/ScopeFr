@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
+/src/assets/
 .angular
 .vscode
 .angular
@@ -53,3 +54,4 @@ Thumbs.db
 /tsconfig.app.json
 /tsconfig.json
 /tsconfig.spec.json
+
